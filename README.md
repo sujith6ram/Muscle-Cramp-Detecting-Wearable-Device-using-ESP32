@@ -6,7 +6,7 @@ This project is a wearable biomedical IoT solution that detects muscle cramps us
 
 ## 📸 Project Overview
 
-![Project Demo Image or Circuit Diagram – optional]
+![Project Demo Image or Circuit Diagram – optional](overview.jpg)
 
 ---
 
