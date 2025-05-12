@@ -27,7 +27,7 @@ This project is a wearable biomedical IoT solution that detects muscle cramps us
 | EMG Sensor Module     | 1        | e.g., MyoWare or similar              |
 | Surface Electrodes    | 3        | For connecting EMG sensor to skin     |
 | Jumper Wires          | As needed | For circuit connections              |
-| Power Source (Battery/USB) | 1        | To power ESP32                        |
+| Power Source (Battery/USB) | 1        | To power ESP32 & EMG Sensor                        |
 
 ---
 
